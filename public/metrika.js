@@ -1,5 +1,5 @@
 (function () {
-  var id = 0; // Set only the dedicated counter for this domain.
+  var id = 113731203; // Dedicated Tver counter, dima.radzun.
   if (!id) return;
   window.ym = window.ym || function () { (window.ym.a = window.ym.a || []).push(arguments); };
   window.ym.l = Date.now();
